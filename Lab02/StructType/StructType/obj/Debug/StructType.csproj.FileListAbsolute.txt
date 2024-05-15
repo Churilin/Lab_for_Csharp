@@ -1,0 +1,14 @@
+C:/Обучение ИТМО/ПРограммирование на C#/Лабораторные/14.05/Lab03/StructType/StructType/bin/Debug/StructType.exe.config
+C:/Обучение ИТМО/ПРограммирование на C#/Лабораторные/14.05/Lab03/StructType/StructType/bin/Debug/StructType.exe
+C:/Обучение ИТМО/ПРограммирование на C#/Лабораторные/14.05/Lab03/StructType/StructType/bin/Debug/StructType.pdb
+C:/Обучение ИТМО/ПРограммирование на C#/Лабораторные/14.05/Lab03/StructType/StructType/obj/Debug/StructType.csproj.AssemblyReference.cache
+C:/Обучение ИТМО/ПРограммирование на C#/Лабораторные/14.05/Lab03/StructType/StructType/obj/Debug/StructType.csproj.CoreCompileInputs.cache
+C:/Обучение ИТМО/ПРограммирование на C#/Лабораторные/14.05/Lab03/StructType/StructType/obj/Debug/StructType.exe
+C:/Обучение ИТМО/ПРограммирование на C#/Лабораторные/14.05/Lab03/StructType/StructType/obj/Debug/StructType.pdb
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/StructType/StructType/bin/Debug/StructType.exe.config
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/StructType/StructType/bin/Debug/StructType.exe
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/StructType/StructType/bin/Debug/StructType.pdb
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/StructType/StructType/obj/Debug/StructType.csproj.AssemblyReference.cache
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/StructType/StructType/obj/Debug/StructType.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/StructType/StructType/obj/Debug/StructType.exe
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/StructType/StructType/obj/Debug/StructType.pdb

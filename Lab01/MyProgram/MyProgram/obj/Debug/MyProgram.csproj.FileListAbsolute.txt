@@ -1,0 +1,7 @@
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\MyProgram\MyProgram\bin\Debug\MyProgram.exe.config
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\MyProgram\MyProgram\bin\Debug\MyProgram.exe
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\MyProgram\MyProgram\bin\Debug\MyProgram.pdb
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\MyProgram\MyProgram\obj\Debug\MyProgram.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\MyProgram\MyProgram\obj\Debug\MyProgram.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\MyProgram\MyProgram\obj\Debug\MyProgram.exe
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\MyProgram\MyProgram\obj\Debug\MyProgram.pdb
