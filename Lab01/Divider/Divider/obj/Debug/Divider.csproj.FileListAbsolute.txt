@@ -1,0 +1,7 @@
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab01\Divider\Divider\bin\Debug\Divider.exe.config
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab01\Divider\Divider\bin\Debug\Divider.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab01\Divider\Divider\bin\Debug\Divider.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab01\Divider\Divider\obj\Debug\Divider.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab01\Divider\Divider\obj\Debug\Divider.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab01\Divider\Divider\obj\Debug\Divider.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab01\Divider\Divider\obj\Debug\Divider.pdb
