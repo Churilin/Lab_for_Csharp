@@ -1,0 +1,6 @@
+D:\Прогриммирование на C#\Labs\Lab04\Starter\WhatDay1\bin\Debug\WhatDay1.exe
+D:\Прогриммирование на C#\Labs\Lab04\Starter\WhatDay1\bin\Debug\WhatDay1.pdb
+D:\Прогриммирование на C#\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.csproj.AssemblyReference.cache
+D:\Прогриммирование на C#\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.csproj.CoreCompileInputs.cache
+D:\Прогриммирование на C#\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.exe
+D:\Прогриммирование на C#\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.pdb
