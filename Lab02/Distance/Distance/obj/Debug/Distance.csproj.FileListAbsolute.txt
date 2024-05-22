@@ -1,0 +1,6 @@
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/Distance/Distance/bin/Debug/Distance.exe
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/Distance/Distance/bin/Debug/Distance.pdb
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/Distance/Distance/obj/Debug/Distance.csproj.AssemblyReference.cache
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/Distance/Distance/obj/Debug/Distance.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/Distance/Distance/obj/Debug/Distance.exe
+/Users/user/Desktop/Обучение Программированию/ИТМО Инженер-Программист/Программирование на C# /Выполнение практики/Lab02/Distance/Distance/obj/Debug/Distance.pdb
