@@ -1,0 +1,21 @@
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\Distance\Distance\bin\Debug\Distance.exe.config
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\Distance\Distance\bin\Debug\Distance.exe
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\Distance\Distance\bin\Debug\Distance.pdb
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\Distance\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\Distance\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\Distance\Distance\obj\Debug\Distance.exe
+C:\Обучение ИТМО\ПРограммирование на C#\Лабораторные\14.05\Lab02\Distance\Distance\obj\Debug\Distance.pdb
+C:\Users\Tshur\Desktop\Distance\Distance\bin\Debug\Distance.exe.config
+C:\Users\Tshur\Desktop\Distance\Distance\bin\Debug\Distance.exe
+C:\Users\Tshur\Desktop\Distance\Distance\bin\Debug\Distance.pdb
+C:\Users\Tshur\Desktop\Distance\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\Users\Tshur\Desktop\Distance\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\Tshur\Desktop\Distance\Distance\obj\Debug\Distance.exe
+C:\Users\Tshur\Desktop\Distance\Distance\obj\Debug\Distance.pdb
+D:\Программирование на C#\Lab02\Distance1\Distance\bin\Debug\Distance.exe.config
+D:\Программирование на C#\Lab02\Distance1\Distance\bin\Debug\Distance.exe
+D:\Программирование на C#\Lab02\Distance1\Distance\bin\Debug\Distance.pdb
+D:\Программирование на C#\Lab02\Distance1\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+D:\Программирование на C#\Lab02\Distance1\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+D:\Программирование на C#\Lab02\Distance1\Distance\obj\Debug\Distance.exe
+D:\Программирование на C#\Lab02\Distance1\Distance\obj\Debug\Distance.pdb
