@@ -1,7 +1,0 @@
-C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab03\TargetShooting\TargetShooting\bin\Debug\TargetShooting.exe.config
-C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab03\TargetShooting\TargetShooting\bin\Debug\TargetShooting.exe
-C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab03\TargetShooting\TargetShooting\bin\Debug\TargetShooting.pdb
-C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab03\TargetShooting\TargetShooting\obj\Debug\TargetShooting.csproj.AssemblyReference.cache
-C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab03\TargetShooting\TargetShooting\obj\Debug\TargetShooting.csproj.CoreCompileInputs.cache
-C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab03\TargetShooting\TargetShooting\obj\Debug\TargetShooting.exe
-C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab03\TargetShooting\TargetShooting\obj\Debug\TargetShooting.pdb
