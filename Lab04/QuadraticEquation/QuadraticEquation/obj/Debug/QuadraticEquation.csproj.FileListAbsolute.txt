@@ -1,0 +1,7 @@
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
