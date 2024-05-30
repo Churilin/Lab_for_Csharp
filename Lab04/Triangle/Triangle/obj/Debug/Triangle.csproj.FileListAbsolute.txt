@@ -1,0 +1,14 @@
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\Triangle\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\Triangle\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\Triangle\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\Triangle\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\Triangle\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\Triangle\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab04\Triangle\Triangle\Triangle\obj\Debug\Triangle.pdb
+D:\Программирование на C#\Lab04\Triangle\Triangle\bin\Debug\Triangle.exe.config
+D:\Программирование на C#\Lab04\Triangle\Triangle\bin\Debug\Triangle.exe
+D:\Программирование на C#\Lab04\Triangle\Triangle\bin\Debug\Triangle.pdb
+D:\Программирование на C#\Lab04\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+D:\Программирование на C#\Lab04\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\Программирование на C#\Lab04\Triangle\Triangle\obj\Debug\Triangle.exe
+D:\Программирование на C#\Lab04\Triangle\Triangle\obj\Debug\Triangle.pdb
