@@ -1,0 +1,7 @@
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\Triangle2.1\Triangle2.1\bin\Debug\Triangle2.1.exe.config
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\Triangle2.1\Triangle2.1\bin\Debug\Triangle2.1.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\Triangle2.1\Triangle2.1\bin\Debug\Triangle2.1.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\Triangle2.1\Triangle2.1\obj\Debug\Triangle2.1.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\Triangle2.1\Triangle2.1\obj\Debug\Triangle2.1.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\Triangle2.1\Triangle2.1\obj\Debug\Triangle2.1.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\Triangle2.1\Triangle2.1\obj\Debug\Triangle2.1.pdb
