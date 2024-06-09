@@ -1,0 +1,12 @@
+D:\Программирование на C#\Labs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csproj.AssemblyReference.cache
+D:\Программирование на C#\Labs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+D:\Программирование на C#\Labs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.exe
+D:\Программирование на C#\Labs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.pdb
+D:\Программирование на C#\Labs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.exe
+D:\Программирование на C#\Labs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\CONSTRUCTORS\bin\Debug\Constructors.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\CONSTRUCTORS\bin\Debug\Constructors.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\CONSTRUCTORS\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\CONSTRUCTORS\obj\Debug\Constructors.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab08\CONSTRUCTORS\obj\Debug\Constructors.pdb
