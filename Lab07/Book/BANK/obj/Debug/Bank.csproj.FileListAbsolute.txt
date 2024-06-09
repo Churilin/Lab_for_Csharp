@@ -1,0 +1,6 @@
+D:\Программирование на C#\Labs\Lab08\STARTER\BANK\bin\Debug\MoreMethods.exe
+D:\Программирование на C#\Labs\Lab08\STARTER\BANK\bin\Debug\MoreMethods.pdb
+D:\Программирование на C#\Labs\Lab08\STARTER\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\Программирование на C#\Labs\Lab08\STARTER\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Программирование на C#\Labs\Lab08\STARTER\BANK\obj\Debug\MoreMethods.exe
+D:\Программирование на C#\Labs\Lab08\STARTER\BANK\obj\Debug\MoreMethods.pdb

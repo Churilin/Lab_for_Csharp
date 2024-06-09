@@ -1,0 +1,6 @@
+D:\Программирование на C#\Labs\Lab08\STARTER\UTILS\obj\Debug\Utils.csproj.AssemblyReference.cache
+D:\Программирование на C#\Labs\Lab08\STARTER\UTILS\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Программирование на C#\Labs\Lab08\STARTER\UTILS\bin\Debug\Utils.exe
+D:\Программирование на C#\Labs\Lab08\STARTER\UTILS\bin\Debug\Utils.pdb
+D:\Программирование на C#\Labs\Lab08\STARTER\UTILS\obj\Debug\Utils.exe
+D:\Программирование на C#\Labs\Lab08\STARTER\UTILS\obj\Debug\Utils.pdb
