@@ -1,0 +1,7 @@
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
