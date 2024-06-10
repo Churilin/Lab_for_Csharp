@@ -1,0 +1,14 @@
+D:\Программирование на C#\Labs\Lab10\MyClass\MyClass\bin\Debug\MyClass.exe.config
+D:\Программирование на C#\Labs\Lab10\MyClass\MyClass\bin\Debug\MyClass.exe
+D:\Программирование на C#\Labs\Lab10\MyClass\MyClass\bin\Debug\MyClass.pdb
+D:\Программирование на C#\Labs\Lab10\MyClass\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+D:\Программирование на C#\Labs\Lab10\MyClass\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+D:\Программирование на C#\Labs\Lab10\MyClass\MyClass\obj\Debug\MyClass.exe
+D:\Программирование на C#\Labs\Lab10\MyClass\MyClass\obj\Debug\MyClass.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\MyClass\MyClass\bin\Debug\MyClass.exe.config
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\MyClass\MyClass\bin\Debug\MyClass.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\MyClass\MyClass\bin\Debug\MyClass.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\MyClass\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\MyClass\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\MyClass\MyClass\obj\Debug\MyClass.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\Lab09\MyClass\MyClass\obj\Debug\MyClass.pdb
