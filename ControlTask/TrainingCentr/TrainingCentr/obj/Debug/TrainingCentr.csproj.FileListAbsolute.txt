@@ -1,0 +1,7 @@
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\TrainingCentr\TrainingCentr\obj\Debug\TrainingCentr.csproj.AssemblyReference.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\TrainingCentr\TrainingCentr\obj\Debug\TrainingCentr.csproj.CoreCompileInputs.cache
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\TrainingCentr\TrainingCentr\bin\Debug\TrainingCentr.exe.config
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\TrainingCentr\TrainingCentr\bin\Debug\TrainingCentr.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\TrainingCentr\TrainingCentr\bin\Debug\TrainingCentr.pdb
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\TrainingCentr\TrainingCentr\obj\Debug\TrainingCentr.exe
+C:\Обучение ИТМО\Программирование на C#\Лабораторные\14.05\TrainingCentr\TrainingCentr\obj\Debug\TrainingCentr.pdb
